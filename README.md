@@ -1,6 +1,6 @@
 # For iOS
 
-You can [CLICK HERE](https://raw.githubusercontent.com/Jwhite077/NOOTA/master/tvOS_11_Beta_Profile.mobileconfig) to install it the profile to block iOS 11 Updates.
+You can [CLICK HERE](https://raw.githubusercontent.com/Jwhite077/NOOTA/master/tvOS_11_Beta_Profile.mobileconfig) to install the profile to block iOS 11 Updates.
 
 This profile also blocks the 9.3.5 update if you are on a 32bit device running 8.4.1. 
 (It will show 9.3.5 is available but will not install/download it.)
