@@ -3,7 +3,7 @@
 You can [CLICK HERE](https://raw.githubusercontent.com/Jwhite077/NOOTA/master/tvOS_11_Beta_Profile.mobileconfig) to install it directly via your iPhone Safari.
 
 This profile also blocks the 9.3.5 update if you are on a 32bit device running 8.4.1. 
-(It will show 9.3.5 is available but will not install/download it)
+(It will show 9.3.5 is available but will not install/download it.)
 
 # For AppleTV
 
