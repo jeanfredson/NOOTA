@@ -1,4 +1,4 @@
-# For iOSL
+# For iOS
 
 You can [CLICK HERE](https://raw.githubusercontent.com/Jwhite077/NOOTA/master/tvOS_11_Beta_Profile.mobileconfig) to install it directly via your iPhone Safari.
 
