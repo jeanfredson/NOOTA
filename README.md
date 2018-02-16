@@ -8,7 +8,7 @@ Just install the profile and hit reboot. Enjoy!
 
 # For AppleTV
 
-There are two different ways to install the **iOS_11_Beta_Profile** to block AppleTV updates , you can select one.
+There are two different ways to install the **iOS_11_Beta_Profile.mobileconfig** to block AppleTV updates, you can select one.
 ## - If you have a macOS
 1. Download *Apple Configure 2* from Mac App Store 
 2. Download this mobileconfig file: [CLICK HERE](https://raw.githubusercontent.com/Jwhite077/NOOTA/master/iOS_11_Beta_Profile.mobileconfig)
