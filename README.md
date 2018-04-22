@@ -4,7 +4,7 @@ iOS 11 NOOTA: [Download](https://raw.githubusercontent.com/Jwhite077/NOOTA/maste
 
 Just install the profile and hit reboot. Enjoy!
 
-(This profile also blocks ota on 32bit devices on 8.4.1 from the 9.4.5 ota.)
+(This profile also blocks ota on 32bit devices on 8.4.1 from the 9.4.5 OTA.)
 
 # For AppleTV
 
