@@ -2,6 +2,8 @@
 
 iOS 11 NOOTA: [Download](https://raw.githubusercontent.com/Jwhite077/NOOTA/master/tvOS_11_Beta_Profile.mobileconfig)
 
+**iOS 12 Certificates will replace the current iOS 11 Certificates upon release**
+
 Just install the profile and hit reboot. Enjoy!
 
 (This profile also blocks ota on 32bit devices on 8.4.1 from the 9.4.5 OTA.)
