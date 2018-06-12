@@ -2,9 +2,9 @@
 
 iOS 12 NOOTA: [Download](https://raw.githubusercontent.com/Jwhite077/NOOTA/master/tvOS_12_Beta_Profile.mobileconfig)
 
-Just install the profile and hit reboot. Enjoy!
+Just click the download link above and follow the directions!
 
-**iOS Public/Developer profiles can be found [here](https://github.com/Jwhite077/Apple-Development-Profiles)
+**iOS Public/Developer Beta Testing profiles can be found [here](https://github.com/Jwhite077/Apple-Development-Profiles)
 
 # For AppleTV
 
