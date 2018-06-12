@@ -4,11 +4,13 @@ iOS 12 NOOTA: [Download](https://raw.githubusercontent.com/Jwhite077/NOOTA/maste
 
 Just click the download link above and follow the directions!
 
-**iOS Public/Developer Beta Testing profiles can be found [here](https://github.com/Jwhite077/Apple-Development-Profiles)
+***The watchOS Profile has replaced tvOS Beta Profile in favor of not having the Feedback app.***
+
+**i*OS Public/Developer Beta Testing profiles can be found [here](https://github.com/Jwhite077/Apple-Development-Profiles)***
 
 # For AppleTV
 
-There are two different ways to install the **iOS_12_Beta_Profile.mobileconfig** to block AppleTV updates, you can select one.
+There are two different ways to install the **watchOS_5_Beta_Profile.mobileconfig** to block AppleTV updates, you can select one.
 ## - If you have a macOS
 1. Download *Apple Configure 2* from Mac App Store 
 2. Download this mobileconfig file: [CLICK HERE](https://raw.githubusercontent.com/Jwhite077/NOOTA/master/iOS_12_Beta_Profile.mobileconfig)
