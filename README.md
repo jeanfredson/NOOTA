@@ -1,6 +1,6 @@
 # For iOS
 
-iOS 11 NOOTA: [Download](https://raw.githubusercontent.com/Jwhite077/NOOTA/master/tvOS_11_Beta_Profile.mobileconfig)
+iOS 12 NOOTA: [Download](https://raw.githubusercontent.com/Jwhite077/NOOTA/master/tvOS_12_Beta_Profile.mobileconfig)
 
 **>>iOS 12 Certificates will replace the current iOS 11 Certificates upon release<<**
 
@@ -13,7 +13,7 @@ Just install the profile and hit reboot. Enjoy!
 There are two different ways to install the **iOS_11_Beta_Profile.mobileconfig** to block AppleTV updates, you can select one.
 ## - If you have a macOS
 1. Download *Apple Configure 2* from Mac App Store 
-2. Download this mobileconfig file: [CLICK HERE](https://raw.githubusercontent.com/Jwhite077/NOOTA/master/iOS_11_Beta_Profile.mobileconfig)
+2. Download this mobileconfig file: [CLICK HERE](https://raw.githubusercontent.com/Jwhite077/NOOTA/master/iOS_12_Beta_Profile.mobileconfig)
 3. Use a USB-C type cable to Connect to your AppleTV
 4. Import the file via *Apple Configure 2*
 
