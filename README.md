@@ -2,7 +2,7 @@
 
 iOS 12 NOOTA: [Download](https://raw.githubusercontent.com/Jwhite077/NOOTA/master/tvOS_12_Beta_Profile.mobileconfig)
 
-Just click the download link above and follow the directions!
+Just click the download link above and follow the directions! 
 
 ***The watchOS Profile has replaced tvOS Beta Profile in favor of not having the Feedback app.***
 
