@@ -2,9 +2,7 @@
 
 iOS 10/11/12 NOOTA: [Download](https://raw.githubusercontent.com/Jwhite077/NOOTA/master/tvOS_12_Beta_Profile.mobileconfig)
 
-Just click the download link above and follow the directions! 
-
-iOS 10/11/12 NOOTA W/O Feedback: [Download](https://github.com/Jwhite077/NOOTA/blob/master/watchOS_5_Beta_Profile.mobileconfig?raw=true)
+Just click the download link above and follow the directions!
 
 ***Apple Developer Beta Profiles can be found [here](https://github.com/Jwhite077/Apple-Development-Profiles)!***
 
