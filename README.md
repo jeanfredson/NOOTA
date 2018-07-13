@@ -4,7 +4,9 @@ iOS 10/11/12 NOOTA: [Download](https://raw.githubusercontent.com/Jwhite077/NOOTA
 
 Just click the download link above and follow the directions! 
 
-***iOS Public/Developer Beta Testing profiles can be found [here](https://github.com/Jwhite077/Apple-Development-Profiles)***
+iOS 10/11/12 NOOTA W/O Feedback: [Download](https://github.com/Jwhite077/NOOTA/blob/master/watchOS_5_Beta_Profile.mobileconfig?raw=true)
+
+***Apple Developer Beta Profiles can be found [here](https://github.com/Jwhite077/Apple-Development-Profiles)!***
 
 # For AppleTV
 
